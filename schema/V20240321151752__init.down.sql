@@ -1,0 +1,9 @@
+DROP TABLE users CASCADE;
+
+DROP TABLE todo_lists CASCADE;
+
+DROP TABLE todo_items CASCADE;
+
+DROP TABLE user_lists CASCADE;
+
+DROP TABLE lists_items CASCADE;
